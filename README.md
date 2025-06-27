@@ -53,3 +53,4 @@ El programa realiza las siguientes acciones:
 - Se utiliza una pila (`Stack`) para almacenar y mostrar los nodos no balanceados.
 ![alt text](<Captura de pantalla (13).png>)
 
+![alt text](image.png)
